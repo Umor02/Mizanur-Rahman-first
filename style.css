@@ -1,0 +1,60 @@
+.logo img{
+    height: auto;
+    width: 180px;
+
+}
+
+.header ul {
+    list-style-type: none;
+    position: relative;
+    top: 33px;
+}
+.header ul li{ 
+    display: inline-block;
+}
+.header ul li a {
+    padding: 0px 24px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.header ul li a:hover{
+    color: red;
+}
+/* <!-- image section start --> */
+.image img{
+    height: auto;
+    width: 1342px;
+    position: relative;
+}
+/* image sectin end  */
+
+/* write section start  */
+.write h3 {
+    position: absolute;
+    top: 252px;
+    left: 429px;
+    font-size: 40px;
+    color: chocolate;
+}
+/* write section end  */
+
+/* lorem section start  */
+.lorem p {
+    font-size: 20px;
+    width: 505px;
+    position: absolute;
+    top: 345px;
+    left: 434px;
+    color: blue;
+}
+/* lorem section end  */
+
+.btn{
+    width: 250px;
+    position: absolute;
+    top: 452px;
+    left: 506px;
+    border-radius: 7px;
+
+}
